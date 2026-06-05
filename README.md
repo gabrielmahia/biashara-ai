@@ -5,7 +5,7 @@
 Step-by-step AI guidance for formalizing a business in Kenya — KRA registration, county permits, NHIF/NSSF compliance, and tax obligations — explained in plain Swahili.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://biasharaai.streamlit.app)
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## The Problem
 
@@ -31,4 +31,4 @@ Biashara AI guides any small business owner through the complete formalization p
 - County government permit databases
 
 ---
-*gabrielmahia.ai | CC BY-NC-ND 4.0*
+*gabrielmahia.github.io | MIT License*
