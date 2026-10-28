@@ -5,7 +5,7 @@
 ## What this is
 🏪 Kenya business formalization AI — KRA PIN, county permits, business registration, and compliance in plain Swahili
 
-- Primary language: Python. Last push: 2026-06-05. Homepage: none listed.
+- Primary language: Python. Last push: 2026-10-28. Homepage: none listed.
 - Detected from the files: Python packaging, a Streamlit app.
 - CI workflows: ci.yml.
 - Generated on 2026-10-28 from the repository's own files and GitHub metadata, not reviewed line by line. Anything marked UNKNOWN could not be determined: confirm it before relying on it, and correct this file when you learn better.
