@@ -91,4 +91,4 @@ with tab4:
         st.markdown(f'<div class="step">✅ <b>{name}</b><br>💰 {cost} | ⏱ {time}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("🏪 Biashara AI v1.0 | Habari kwa madhumuni ya elimu | Thibitisha na KRA/eCitizen | CC BY-NC-ND 4.0")
+st.caption("🏪 Biashara AI v1.0 | Habari kwa madhumuni ya elimu | Thibitisha na KRA/eCitizen | MIT")
